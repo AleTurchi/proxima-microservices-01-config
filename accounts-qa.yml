@@ -1,0 +1,4 @@
+ambiente: "qa accounts"
+db_host: "https://qa.miaapp.it"
+db_user: "utente accounts qa"
+db_pass: "{cipher}93fa673aee99a1f06173bc65881d61ee6d292ad1fd49df1575bf94b658ecd071"

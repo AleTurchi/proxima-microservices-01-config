@@ -1,0 +1,4 @@
+ambiente: "production"
+db_host: "https://www.miaapp.it"
+db_user: "farfalla341"
+db_pass: "{cipher}b3c1e686d98e89b719ddb4788f9b5b3a06070a9e13ad8f6bc9cc767aa16fb31e3fcf7527eb2a51c45e39eae98669c423"
